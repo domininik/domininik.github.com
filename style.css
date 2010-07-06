@@ -15,9 +15,9 @@ body, p, ol, ul, td {
 }
 
 #content, .content {
-	width: 880px;
+	width: 720px;
 	margin: 20px auto;
-	padding: 20px;
+	padding: 20px 80px;
 }
 
 #header {
@@ -156,5 +156,5 @@ div#icons a img {
 
 #links {
 	text-align: center;
-	font-size: 14px;
+	font-size: 11px;
 }
